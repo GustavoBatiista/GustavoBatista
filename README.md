@@ -1,8 +1,12 @@
-# Gustavo Batista 
+<h1 align="center">Gustavo Batista</h1>
 
-Backend Developer especializado em Java e Spring Boot.
+<p align="center">
+Backend Developer especializado em Java e Spring Boot
+</p>
 
+<p align="center">
 Construindo APIs REST e aplicações backend com foco em arquitetura limpa, escalabilidade e soluções reais.
+</p>
 
 ---
 
@@ -68,9 +72,9 @@ Projeto colaborativo desenvolvido em equipe para TCC da FATEC Ourinhos.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoBatista&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GustavoBatista&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBatista&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBatista&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
