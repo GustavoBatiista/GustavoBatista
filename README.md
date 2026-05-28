@@ -84,9 +84,9 @@ Projeto colaborativo desenvolvido em equipe para TCC da FATEC Ourinhos.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavobatista&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavobatiista&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobatista&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobatiista&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
